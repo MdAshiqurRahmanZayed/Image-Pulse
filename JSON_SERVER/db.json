@@ -1,0 +1,144 @@
+{
+     "photos": [
+          {
+               "id": 0,
+               "title": "Nature 1",
+               "category": "Nature",
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod eros a libero fringilla, id consequat eros pellentesque. Nunc volutpat, enim vel finibus vulputate, metus sapien semper justo, at pharetra sapien enim eu magna.",
+               "image": "https://cdn.pixabay.com/photo/2018/08/23/07/35/thunderstorm-3625405_960_720.jpg"
+          },
+          {
+               "id": 1,
+               "title": "Nature 2",
+               "category": "Nature",
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod eros a libero fringilla, id consequat eros pellentesque. Nunc volutpat, enim vel finibus vulputate, metus sapien semper justo, at pharetra sapien enim eu magna.",
+               "image": "https://cdn.pixabay.com/photo/2019/11/25/08/41/storm-4651306_960_720.jpg"
+          },
+          {
+               "id": 2,
+               "title": "AI 1",
+               "category": "AI",
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod eros a libero fringilla, id consequat eros pellentesque. Nunc volutpat, enim vel finibus vulputate, metus sapien semper justo, at pharetra sapien enim eu magna.",
+               "image": "https://cdn.pixabay.com/photo/2024/04/18/06/42/ai-generated-8703603_960_720.jpg"
+          },
+          {
+               "id": 3,
+               "title": "AI 2",
+               "category": "AI",
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod eros a libero fringilla, id consequat eros pellentesque. Nunc volutpat, enim vel finibus vulputate, metus sapien semper justo, at pharetra sapien enim eu magna.",
+               "image": "https://cdn.pixabay.com/photo/2024/03/13/19/06/ai-generated-8631634_960_720.jpg"
+          },
+          {
+               "id": 4,
+               "title": "Mount 1",
+               "category": "Mount",
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod eros a libero fringilla, id consequat eros pellentesque. Nunc volutpat, enim vel finibus vulputate, metus sapien semper justo, at pharetra sapien enim eu magna.",
+               "image": "https://cdn.pixabay.com/photo/2023/05/22/13/45/mount-fuji-8010752_1280.jpg"
+          },
+          {
+               "id": 5,
+               "title": "Mount 2",
+               "category": "Mount",
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod eros a libero fringilla, id consequat eros pellentesque. Nunc volutpat, enim vel finibus vulputate, metus sapien semper justo, at pharetra sapien enim eu magna.",
+               "image": "https://cdn.pixabay.com/photo/2017/05/09/10/59/mount-fuji-2297961_640.jpg"
+          },
+          {
+               "id": 6,
+               "title": "Sea 1",
+               "category": "Sea",
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod eros a libero fringilla, id consequat eros pellentesque. Nunc volutpat, enim vel finibus vulputate, metus sapien semper justo, at pharetra sapien enim eu magna.",
+               "image": "https://cdn.pixabay.com/photo/2016/11/23/13/48/beach-1852945_640.jpg"
+          },
+          {
+               "id": 7,
+               "title": "Sea 2",
+               "category": "Sea",
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod eros a libero fringilla, id consequat eros pellentesque. Nunc volutpat, enim vel finibus vulputate, metus sapien semper justo, at pharetra sapien enim eu magna.",
+               "image": "https://cdn.pixabay.com/photo/2017/12/15/13/51/polynesia-3021072_640.jpg"
+          },
+          {
+               "id": 8,
+               "title": "Travel 1",
+               "category": "Travel",
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod eros a libero fringilla, id consequat eros pellentesque. Nunc volutpat, enim vel finibus vulputate, metus sapien semper justo, at pharetra sapien enim eu magna.",
+               "image": "https://cdn.pixabay.com/photo/2017/12/01/03/17/nature-2990060_640.jpg"
+          },
+          {
+               "id": 9,
+               "title": "Travel 2",
+               "category": "Travel",
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod eros a libero fringilla, id consequat eros pellentesque. Nunc volutpat, enim vel finibus vulputate, metus sapien semper justo, at pharetra sapien enim eu magna.",
+               "image": "https://cdn.pixabay.com/photo/2020/02/28/21/15/space-4888643_640.jpg"
+          },
+          {
+               "id": 10,
+               "title": "Nature 3",
+               "category": "Nature",
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod eros a libero fringilla, id consequat eros pellentesque. Nunc volutpat, enim vel finibus vulputate, metus sapien semper justo, at pharetra sapien enim eu magna.",
+               "image": "https://cdn.pixabay.com/photo/2017/10/10/07/48/hills-2836301_960_720.jpg"
+          },
+          {
+               "id": 11,
+               "title": "Nature 4",
+               "category": "Nature",
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod eros a libero fringilla, id consequat eros pellentesque. Nunc volutpat, enim vel finibus vulputate, metus sapien semper justo, at pharetra sapien enim eu magna.",
+               "image": "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823_960_720.jpg"
+          },
+          {
+               "id": 12,
+               "title": "AI 3",
+               "category": "AI",
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod eros a libero fringilla, id consequat eros pellentesque. Nunc volutpat, enim vel finibus vulputate, metus sapien semper justo, at pharetra sapien enim eu magna.",
+               "image": "https://cdn.pixabay.com/photo/2017/03/23/09/34/artificial-intelligence-2167835_960_720.jpg"
+          },
+          {
+               "id": 13,
+               "title": "AI 4",
+               "category": "AI",
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod eros a libero fringilla, id consequat eros pellentesque. Nunc volutpat, enim vel finibus vulputate, metus sapien semper justo, at pharetra sapien enim eu magna.",
+               "image": "https://cdn.pixabay.com/photo/2022/08/29/15/39/man-7419130_640.jpg"
+          },
+          {
+               "id": 14,
+               "title": "Mount 3",
+               "category": "Mount",
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod eros a libero fringilla, id consequat eros pellentesque. Nunc volutpat, enim vel finibus vulputate, metus sapien semper justo, at pharetra sapien enim eu magna.",
+               "image": "https://cdn.pixabay.com/photo/2020/10/23/09/02/mountain-5678172_640.jpg"
+          },
+          {
+               "id": 15,
+               "title": "Mount 4",
+               "category": "Mount",
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod eros a libero fringilla, id consequat eros pellentesque. Nunc volutpat, enim vel finibus vulputate, metus sapien semper justo, at pharetra sapien enim eu magna.",
+               "image": "https://cdn.pixabay.com/photo/2017/04/12/18/50/mount-fitzroy-2225382_640.jpg"
+          },
+          {
+               "id": 16,
+               "title": "Sea 3",
+               "category": "Sea",
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod eros a libero fringilla, id consequat eros pellentesque. Nunc volutpat, enim vel finibus vulputate, metus sapien semper justo, at pharetra sapien enim eu magna.",
+               "image": "https://cdn.pixabay.com/photo/2016/10/21/14/50/plouzane-1758197_640.jpg"
+          },
+          {
+               "id": 17,
+               "title": "Sea 4",
+               "category": "Sea",
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod eros a libero fringilla, id consequat eros pellentesque. Nunc volutpat, enim vel finibus vulputate, metus sapien semper justo, at pharetra sapien enim eu magna.",
+               "image": "https://cdn.pixabay.com/photo/2016/10/21/14/50/plouzane-1758197_640.jpg"
+          },
+          {
+               "id": 18,
+               "title": "Travel 3",
+               "category": "Travel",
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod eros a libero fringilla, id consequat eros pellentesque. Nunc volutpat, enim vel finibus vulputate, metus sapien semper justo, at pharetra sapien enim eu magna.",
+               "image": "https://cdn.pixabay.com/photo/2016/07/30/00/03/winding-road-1556177_640.jpg"
+          },
+          {
+               "id": 19,
+               "title": "Travel 4",
+               "category": "Travel",
+               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod eros a libero fringilla, id consequat eros pellentesque. Nunc volutpat, enim vel finibus vulputate, metus sapien semper justo, at pharetra sapien enim eu magna.",
+               "image": "https://cdn.pixabay.com/photo/2017/12/16/22/22/bora-bora-3023437_640.jpg"
+          }
+     ]
+}
