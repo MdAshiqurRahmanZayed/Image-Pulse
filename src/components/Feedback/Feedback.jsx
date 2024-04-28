@@ -26,18 +26,25 @@ const Feedback = (props) => {
       "https://image-pulse-44040-default-rtdb.firebaseio.com/feedbacks.json";
     axios
       .post(url, values)
-      .then((response) => console.log(response.data))
+      .then((response) => console.log("axios then response", response.data))
       .catch((error) => console.log(error.message));
-    console.log(values);
+    console.log("handle submiut values:", values);
     resetForm();
     setSubmitting(false);
+
+    props.addFeedBack(values);
   };
 
-  return (
-    <div>
-      <h1>Comments</h1>
+  let form = (
+    <h6> 
+      <b>
+      Please Login for feedback
+      </b>
+    </h6>
+  )
 
-      {/* <AllFeedbacks photoId={props.photoId} /> */}
+  if(localStorage.getItem('token')){
+    form = (
 
       <Formik
         initialValues={initialValues}
@@ -78,6 +85,15 @@ const Feedback = (props) => {
           </Form>
         )}
       </Formik>
+    )
+  }
+
+  return (
+    <div>
+      <h1>Comments</h1>
+
+      {/* <AllFeedbacks photoId={props.photoId} /> */}
+{form}
     </div>
   );
 };
