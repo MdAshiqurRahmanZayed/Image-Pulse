@@ -42,10 +42,9 @@ const Feedback = (props) => {
       </b>
     </h6>
   )
-
-  if(localStorage.getItem('token')){
+const expirationTime = new Date(localStorage.getItem("expirationTime"));
+  if (localStorage.getItem("token") && expirationTime >= new Date()) {
     form = (
-
       <Formik
         initialValues={initialValues}
         validate={validate}
@@ -85,7 +84,7 @@ const Feedback = (props) => {
           </Form>
         )}
       </Formik>
-    )
+    );
   }
 
   return (
